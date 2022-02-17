@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarkCoder017
-- 👀 I’m interested in Weg Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on React JS
 - 📫 How to reach me darkcoder017@gmail.com
